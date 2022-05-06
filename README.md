@@ -4,16 +4,16 @@ This is a variant of the standard keyboard layout - USA (QWERTY).
 Created with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 Additional Serbian Latin characters are entered via dead key '\\':
 
-- \Z -> Ž
-- \S -> Š
-- \D -> Đ
-- \C -> Ć
-- \X -> Č
-- \\\\ -> \
+- \\Z  ->  Ž
+- \\S  ->  Š
+- \\D  ->  Đ
+- \\C  ->  Ć
+- \\X  ->  Č
+- \\\\  ->  \\
 
 # Installation.
 
-Download and extract the zip archive ["us_sr_dk"](https://github.com/corax4/English-Serpsi_Keyboard_DeadKey). Run Setup.exe and follow the instructions of the installer. Reboot Windows.
+Download and extract the zip archive ["us_sr_dk"](https://github.com/corax4/English-Serpsi_Keyboard_DeadKey/releases/download/v1.0.0/us_sr_dk.zip). Run Setup.exe and follow the instructions of the installer. Reboot Windows.
 
 Now you can select the installed keyboard layout:
 
