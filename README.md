@@ -2,7 +2,7 @@
 
 This is a variant of the standard keyboard layout - USA (QWERTY).
 Created with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
-Additional Serbian Latin characters are entered via dead key '\':
+Additional Serbian Latin characters are entered via dead key '\\':
 
 - \Z -> Ž
 - \S -> Š
