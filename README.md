@@ -9,7 +9,7 @@ Additional Serbian Latin characters are entered via dead key '\\':
 - \D -> Đ
 - \C -> Ć
 - \X -> Č
-- \\ -> \
+- \\\\ -> \
 
 # Installation.
 
